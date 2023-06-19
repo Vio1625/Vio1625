@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Vio1625/Vio1625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 Hello, I am currently studying computer science in Erasmus at Lisbon. During this Esrasmus I developped a mobile application with Android Studio (librarIST). I'm used to work with Java, C++/C, Python and some web development languages and framework (React for example).<br>I am currently looking for an internship of 5 months in France. Feel free to visit my profile !
 
